@@ -1,0 +1,21 @@
+{
+  "name": "the-spring-snow",
+  "displayName": "The Spring Snow",
+  "description": "The best VSCode light theme",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.75.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "The Spring Snow",
+        "uiTheme": "vs",
+        "path": "./themes/The Spring Snow-color-theme.json"
+      }
+    ]
+  }
+}
