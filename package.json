@@ -3,6 +3,11 @@
   "displayName": "The Spring Snow",
   "description": "The best VSCode light theme",
   "version": "0.0.1",
+  "repository": "https://github.com/hehoku/The-Spring-Snow",
+  "LICENSE": "MIT",
+  "scripts": {
+    "build": "vsce package"
+  },
   "engines": {
     "vscode": "^1.75.0"
   },
