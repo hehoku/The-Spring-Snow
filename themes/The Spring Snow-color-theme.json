@@ -16,7 +16,7 @@
     "tab.activeForeground": "#000000e4",
     "tab.border": "#0000001a",
     "tab.hoverBackground": "#f7f0e9",
-    "tab.hoverBorder": "#005fb8",
+    "tab.hoverBorder": "#66b395",
     "tab.inactiveBackground": "#f7f0e9",
     "tab.inactiveForeground": "#00000080",
     "tab.lastPinnedBorder": "#61616130",
@@ -26,7 +26,8 @@
     "editorCursor.foreground": "#66b395",
     "terminalCursor.foreground": "#66b395",
     "terminal.ansiYellow": "#66b395",
-    "terminal.ansiWhite": "#add6ff"
+    "terminal.ansiWhite": "#e8dfd7",
+		"editor.lineHighlightBackground": "#f5ece2",
   },
 	"tokenColors": [
 		{
@@ -79,7 +80,8 @@
 				"storage"
 			],
 			"settings": {
-				"foreground": "#4B83CD"
+				"foreground": "#4B83CD",
+				"fontStyle": "italic bold"
 			}
 		},
 		{
