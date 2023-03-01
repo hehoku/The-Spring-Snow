@@ -25,9 +25,12 @@
     "tab.unfocusedHoverBackground": "#d9d2c2",
     "editorCursor.foreground": "#66b395",
     "terminalCursor.foreground": "#66b395",
-    "terminal.ansiYellow": "#66b395",
+    "terminal.ansiYellow": "#e2c97e",
+    "terminal.ansiBrightGreen": "#66b395",
     "terminal.ansiWhite": "#e8dfd7",
-		"editor.lineHighlightBackground": "#f5ece2",
+    "terminal.ansiBlue": "#7098d4",
+    "terminal.ansiBrightBlue": "#7098d4",
+    "editor.lineHighlightBackground": "#f5ece2"
   },
 	"tokenColors": [
 		{
