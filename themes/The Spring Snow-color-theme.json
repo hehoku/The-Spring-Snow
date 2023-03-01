@@ -5,6 +5,8 @@
     "editor.foreground": "#333333",
     "editor.lineHighlightBackground": "#f5ece2",
     "editor.selectionBackground": "#66b395",
+		"editor.findMatchBackground": "#66b395",
+		"editor.findMatchHighlightBackground": "#f9f3ba",
     "list.activeSelectionIconForeground": "#fff",
     "sideBar.background": "#f7f0e9",
     "sideBar.border": "#0000001a",
