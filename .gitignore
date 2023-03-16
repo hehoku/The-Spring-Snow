@@ -1,4 +1,6 @@
 node_modules
 *.vsix
 
-themes/light+-v2.jsonc
+test.js
+.gitignore
+themes/*.jsonc
