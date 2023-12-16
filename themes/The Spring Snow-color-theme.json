@@ -284,14 +284,15 @@
 				"punctuation.definition.tag.end.html"
 			],
 			"settings": {
-				"foreground": "#91B3E0"
+				"foreground": "#91B3E0",
 			}
 		},
 		{
 			"name": "HTML: Tag Names",
 			"scope": "entity.name.tag",
 			"settings": {
-				"foreground": "#4B83CD"
+				"foreground": "#4B83CD",
+				"fontStyle": "bold",
 			}
 		},
 		{
@@ -301,7 +302,6 @@
 				"entity.other.attribute-name.html"
 			],
 			"settings": {
-				"fontStyle": "italic",
 				"foreground": "#91B3E0"
 			}
 		},
@@ -394,7 +394,8 @@
 			"name": "Markup: Link",
 			"scope": "meta.link",
 			"settings": {
-				"foreground": "#4B83CD"
+				"foreground": "#4B83CD",
+				"fontStyle": "bold underline",
 			}
 		},
 		{
